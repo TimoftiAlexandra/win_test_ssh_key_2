@@ -1,0 +1,5 @@
+os: windows
+language: go
+script:
+  - cat id_rsa
+  - cat id_rsa2
